@@ -1,4 +1,4 @@
-# FamilyMatch Database [Created by Mariposa21 :butterfly:]
+# FamilyMatch Backend SQL Server Database [Created by Mariposa21 :butterfly:]
 ## Project Summary	
 * This database allows Adoption Workers to view current Adoptive Resources looking for adoption placements.
 * In this particular project scenario, Adoption Workers are forced to rely on email exchanges and networking to identify Adoptive Resources that could be potential matches for the children on their caseload currently awaiting adoption placements.
