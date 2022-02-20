@@ -1,4 +1,7 @@
--- GENDERIC STORED PROCEDURE FOUND ONLINE, NOT CREATED BY ME. 
+-- The code was taken from MgSam's accepted answer to the question "Convert a SQL query result table to an HTML table for email"
+-- URL: https://stackoverflow.com/questions/7070053/convert-a-sql-query-result-table-to-an-html-table-for-email
+-- Minor alterations were made to integrate into FamilyMatch database.
+-- =============================================
 -- Description: Turns a query into a formatted HTML table. Useful for emails. 
 -- Any ORDER BY clause needs to be passed in the separate ORDER BY parameter.
 -- =============================================
